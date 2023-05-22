@@ -1,1 +1,3 @@
-# Undoing_AI
+# Undoing Artificial Intelligence
+### Author: Alvaro Garcia
+#### MIT License
